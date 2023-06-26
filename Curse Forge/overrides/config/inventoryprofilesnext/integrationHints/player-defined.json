@@ -1,0 +1,10 @@
+{
+    "net.minecraft.class_490": {
+        "buttonHints": {
+            "PROFILE_SELECTOR": {
+                "horizontalOffset": -1,
+                "bottom": 24
+            }
+        }
+    }
+}
