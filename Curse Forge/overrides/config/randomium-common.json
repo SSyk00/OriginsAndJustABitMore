@@ -1,0 +1,21 @@
+{
+  "interactions": {
+    "excite_chance_on_attack": 70,
+    "excite_chance_on_block_update": 25,
+    "fall_chance": 30,
+    "move_chance": 40,
+    "fly_chance": 2,
+    "teleport_chance": 8,
+    "silk_touch_multiplier": 0.5
+  },
+  "drops": {
+    "mod_blacklist": [
+      "chisel"
+    ],
+    "loot_mode": "BLACKLIST",
+    "base_drop_chance": 0.5,
+    "luck_multiplier": 1.0,
+    "fortune_multiplier": 0.2,
+    "allow_silk_touch": true
+  }
+}
