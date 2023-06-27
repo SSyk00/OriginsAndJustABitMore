@@ -1,13 +1,13 @@
 <h1 align="center">Origins and Just A Bit More</h1>
 
-Origins and Just A Bit More Is a modpack with plenty of biomes to explore like; Redwood forests, Cypress Forests and swamps, and even Sakura Forests! 
+<p align="center">Origins and Just A Bit More Is a modpack with plenty of biomes to explore like; Redwood forests, Cypress Forests and swamps, and even Sakura Forests! 
 Not only that because of better nether AND better end, there are plenty of biomes in both the nether and end for you to explore the various mobs and items these mods include. 
 The Nether might have a nether jungle with speedy skeletons as well as the end has some pretty biomes such as the crystal mountains. 
 Ad Astra also includes planets like mars, the moon, and even Venus to explore. There are also plenty of quality of life mods like tree harvester that 
 allow you to cut down trees with ease and double doors to make opening two doors next to eachother look and feel more natural to open. 
 Mythic metals is another addition that adds plenty of ores, armors, and weapons that encourage you to keep mining. There is also plenty of furniture and appliances to decorate your home to make it feel more like a home. 
 The key part of the modpack comes in when you first load in and get to pick your origin. Origins add a layer to minecraft like no other where you get certain abilities and traits depending on the one you choose.
-But... BEWARE with great power comes great responsibility and most of the good parts of a origin may have some negative effects. 
+But... BEWARE with great power comes great responsibility and most of the good parts of a origin may have some negative effects.</p>
 
 
 <h2 align="center", text-style="bold">Socials + Where to Find Us</h2>
