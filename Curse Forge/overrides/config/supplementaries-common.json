@@ -188,7 +188,7 @@
     "blackstone_tile": true,
     "sconce": true,
     "sconce_lever": true,
-    "sconce_green": false,
+    "sconce_green": true,
     "pancake": true,
     "netherite_door": true,
     "netherite_trapdoor": true,
