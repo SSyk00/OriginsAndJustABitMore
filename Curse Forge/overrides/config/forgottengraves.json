@@ -8,7 +8,7 @@
     "maxCustomXPLevel": 30
   },
   "floating": {
-    "floatInAir": false,
+    "floatInAir": true,
     "floatInWater": true,
     "floatInLava": true
   },
