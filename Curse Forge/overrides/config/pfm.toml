@@ -1,5 +1,5 @@
-tablesOfDifferentMaterialsConnect = false
+tablesOfDifferentMaterialsConnect = true
 chairsFacePlayer = true
-countersOfDifferentMaterialsConnect = false
+countersOfDifferentMaterialsConnect = true
 foodPopsOffStove = false
 checkForUpdates = true
